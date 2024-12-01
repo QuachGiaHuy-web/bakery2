@@ -79,7 +79,7 @@ function createProduct() {
         {
             id: 9,
             status: 1, 
-            title: 'Trà phô mai kem sữa',
+            title: 'Trà phô mai kem',
             category: "Nước uống",
             img: './assets/img/products/tra-pho-mai-kem-sua.jpg',
             price: 34000,
