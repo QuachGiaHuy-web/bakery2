@@ -69,11 +69,11 @@ function createProduct() {
         {
             id: 8,
             status: 1, 
-            title: 'Xíu mại tôm thịt 10 viên',
+            title: ' thanh',
             img: './assets/img/products/xiu_mai_tom_thit_10_vien.jpg',
-            category: 'Bánh Mousse Trái Cây',
+            category: 'Nước ống',
             price: 140000,
-            desc: 'Quý khách hấp chín trước khi ăn. Những miếng há cảo, sủi cảo, hoành thánh với phần nhân tôm, sò điệp, hải sản tươi ngon hay nhân thịt heo thơm ngậy chắc chắn sẽ khiến bất kỳ ai thưởng thức đều cảm thấy rất ngon miệng.'
+            desc: 'uuu'
         },
 
         {
