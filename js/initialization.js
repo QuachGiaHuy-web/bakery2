@@ -4,11 +4,11 @@ function createProduct() {
         let products = [{
             id: 1,
             status: 1, 
-            title: 'Nấm đùi gà xào cháy tỏi',
-            img: './assets/img/products/nam-dui-ga-chay-toi.jpeg',
+            title: 'Bánh Kem Mousse Chanh Dây',
+            img: './assets/img/products/chanhday.jpg',
             category: 'Bánh Mousse Trái Cây',
             price: 200000,
-            desc: 'Một Bánh Kem Mousse ngon miệng với nấm đùi gà thái chân hương, xào săn với lửa và thật nhiều tỏi băm, nêm nếm với mắm và nước tương chay, món ngon đưa cơm và rất dễ ăn cả cho người lớn và trẻ nhỏ.'
+            desc: 'Bánh Mousse Chanh Dây tại Tiệm Bánh SHA Bakery là sự kết hợp hoàn hảo giữa vị chua thanh dịu của chanh dây tươi và lớp mousse mềm mịn, ngọt vừa. Vị chanh dây thơm nhẹ hòa quyện cùng kết cấu bánh mịn màng, tạo nên sự cân bằng tuyệt vời giữa chua ngọt, mang đến cảm giác tươi mới, sảng khoái. Mỗi miếng bánh sẽ giúp bạn giải nhiệt và thưởng thức hương vị nhiệt đới trọn vẹn.'
         },
         {
             id: 2,
